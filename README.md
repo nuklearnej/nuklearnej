@@ -7,5 +7,5 @@
   <img src="https://64.media.tumblr.com/c6e3963413c5bdd4f12eaa2d400a1428/6e808bd5dc62d6b7-d5/s2048x3072/f9c82d567513082352ca1a97950d655b42112f5e.pnj" width="650" height="350">
   
   <br>⠀
-<img src="https://64.media.tumblr.com/21945f7763bb8a3c6912911e0c2f9ced/5ff625eb27f2740c-84/s75x75_c1/427e1bb9745de10e18c8cf33c9ebec599d06094a.gifv"> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=868c90&style=plastic&label=visits) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nuklearnej?color=868c90&style=plastic&abbreviated=false&label=fellas"/> <img src="https://64.media.tumblr.com/16abf0be8b3cf5493ee9420ccf9abb7c/5ff625eb27f2740c-ae/s75x75_c1/0ade88c39e837f8a919c7ace646f7a2a123a87ff.gifv"> 
+<img src="https://64.media.tumblr.com/21945f7763bb8a3c6912911e0c2f9ced/5ff625eb27f2740c-84/s75x75_c1/427e1bb9745de10e18c8cf33c9ebec599d06094a.gifv"> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=B30000&style=plastic&label=visits) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nuklearnej?color=B30000&style=plastic&abbreviated=false&label=fellas"/> <img src="https://64.media.tumblr.com/16abf0be8b3cf5493ee9420ccf9abb7c/5ff625eb27f2740c-ae/s75x75_c1/0ade88c39e837f8a919c7ace646f7a2a123a87ff.gifv"> 
