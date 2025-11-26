@@ -1,12 +1,6 @@
 <div  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&size=20&pause=1000&color=752525&repeat=false&width=435&lines=new+york+city+digs+it+so+it+must+be+something+true" alt="Typing SVG" /></a>
 
-<div  align="center">
-  <img src="https://64.media.tumblr.com/a870d95bb57a54d4a45f8ec83b37dfa5/b8cd044ac524d7bb-ac/s2048x3072/313b5aec77d2e43293351ea9e642aebe55e39324.pnj" width="650" height="100">
-  <img src="https://64.media.tumblr.com/c6e3963413c5bdd4f12eaa2d400a1428/6e808bd5dc62d6b7-d5/s2048x3072/f9c82d567513082352ca1a97950d655b42112f5e.pnj" width="650" height="350">
-  <img src="https://64.media.tumblr.com/f9dbd1d600c59495d478e23ca2d932a7/4dd3ee2a95b887a8-0d/s1280x1920/ba378c61f084c9550163265664cbc96e17713514.jpg" width="650" height="500">
-  <img src="https://64.media.tumblr.com/c6e3963413c5bdd4f12eaa2d400a1428/6e808bd5dc62d6b7-d5/s2048x3072/f9c82d567513082352ca1a97950d655b42112f5e.pnj" width="650" height="350">
-  <img src="https://64.media.tumblr.com/a870d95bb57a54d4a45f8ec83b37dfa5/b8cd044ac524d7bb-ac/s2048x3072/313b5aec77d2e43293351ea9e642aebe55e39324.pnj" width="650" height="100">
   
   <br>⠀
 <img src="https://64.media.tumblr.com/21945f7763bb8a3c6912911e0c2f9ced/5ff625eb27f2740c-84/s75x75_c1/427e1bb9745de10e18c8cf33c9ebec599d06094a.gifv"> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=868c90&style=plastic&label=visits) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
