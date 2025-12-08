@@ -4,5 +4,5 @@
   <br> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=868c90&style=plastic&label=visits) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nuklearnej?color=868c90&style=plastic&abbreviated=false&label=fellas"/>
 
-  <img src="https://64.media.tumblr.com/527ff656d6fd02af9e05da22b8f168f8/669fbe2b8fefd40f-56/s400x600/6c5e64d7b8ebc08834db51102e8c829e4e2ac30f.gifv" width="300" height="200">
+  <img src="https://64.media.tumblr.com/ff3f58479dda754afe47f50fd141f677/a26202dd702966b8-39/s1280x1920/c3c175325f12c19cdad930aa5a271a5b5aa8a92c.gifv" width="300" height="200">
 
