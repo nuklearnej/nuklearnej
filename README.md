@@ -7,6 +7,6 @@
 
 <hr class="dotted">
 
- <a href="https://nuklearnej.straw.page/">strawpage</a>  　　　　  <a href="https://nuklearnej.atabook.org/">atabook</a>
+ <a href="https://nuklearnej.straw.page/">strawpage</a>  　　➴　　  <a href="https://nuklearnej.atabook.org/">atabook</a>
 
 
