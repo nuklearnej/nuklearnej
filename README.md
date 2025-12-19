@@ -3,6 +3,6 @@
   
   <br> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=868c90&style=plastic&label=visits)
 
- <a href="https://example.com">strawpage</a>    <a href="https://example.com">atabook</a>
+ <a href="https://example.com">strawpage</a>  　　　　  <a href="https://example.com">atabook</a>
 
 
