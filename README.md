@@ -7,5 +7,5 @@
 
 <hr class="dotted">
 
- <a href="https://nuklearnej.straw.page/">straw</a>  　　 ➴　　  <a href="https://nuklearnej.atabook.org/">ata</a>
+ <a href="https://nuklearnej.straw.page/">straw</a>  　　 <a href="https://pronouns.cc/@nuklearnej/">➴</a>　　  <a href="https://nuklearnej.atabook.org/">ata</a>
 
