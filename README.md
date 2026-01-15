@@ -10,5 +10,5 @@
 
  <a href="https://nuklearnej.straw.page/">straw</a>  　　 ➴　　  <a href="https://nuklearnej.atabook.org/">ata</a>
 
- ᵖˡ ❫ ᵉⁿᵍ
+　　 ᵖˡ ❫ ᵉⁿᵍ
 
