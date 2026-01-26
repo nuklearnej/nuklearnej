@@ -6,7 +6,7 @@
   <br> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nuklearnej&color=868c90&style=plastic&label=visits)
   
 
-<hr class="dotted">
+<hr class="dashed">
 
  <a href="https://nuklearnej.straw.page/">straw</a>  　　 ➴　　  <a href="https://nuklearnej.atabook.org/">ata</a>
 
